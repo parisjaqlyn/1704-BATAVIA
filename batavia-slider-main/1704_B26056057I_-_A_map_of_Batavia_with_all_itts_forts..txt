@@ -1,0 +1,23 @@
+================================================================================
+HISTORICAL CARTOGRAPHIC RECORD: BATAVIA
+================================================================================
+MAP TITLE       : B26056057I - A map of Batavia with all itts forts.jpg
+YEAR / DATE     : 1704
+CARTOGRAPHER    : Nieuhof, Johannes, 1618-1672; Nieuhof, Johannes, 1618-1672
+REPOSITORY      : Leiden University (KITLV) / Nationaal Archief / Tropenmuseum
+SHELFMARK / ID  : Dutch Colonial Map Collection
+FORMAT / SIZE   : JPG (7.15 MB)
+LOCAL FILENAME  : 1704_B26056057I_-_A_map_of_Batavia_with_all_itts_forts..jpg
+SOURCE URL      : https://commons.wikimedia.org/wiki/File:B26056057I_-_A_map_of_Batavia_with_all_itts_forts.jpg
+RIGHTS / LICENSE: CC0
+
+--------------------------------------------------------------------------------
+ACADEMIC CITATION:
+--------------------------------------------------------------------------------
+Nieuhof, Johannes, 1618-1672; Nieuhof, Johannes, 1618-1672 (1704). "B26056057I - A map of Batavia with all itts forts.jpg". Shelfmark: Dutch Colonial Map Collection. Dutch National Repositories (KITLV/Nationaal Archief). Permanent URL: https://commons.wikimedia.org/wiki/File:B26056057I_-_A_map_of_Batavia_with_all_itts_forts.jpg
+
+--------------------------------------------------------------------------------
+CURATORIAL NOTES / MAP DESCRIPTION:
+--------------------------------------------------------------------------------
+This engraved map of Batavia shows the surrounding countryside and forts. It is illustrated with people and animals in the fields and several ships in the harbour. The title cartouche is shown as the wall of a fortress. The map is from the English edition of Johan Nieuhoff's Gedenkwaerdige zee en lantreize.
+================================================================================
